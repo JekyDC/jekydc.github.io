@@ -6,5 +6,4 @@
 
 ## Projects
 
-- [Infinite Python](url)
-- [Infinite Waves Newsletter](https://infinitewaves.substack.com)
+Coming soon.
