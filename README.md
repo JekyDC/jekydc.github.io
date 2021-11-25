@@ -1,5 +1,5 @@
 # jekydc.github.io
 
-# Developer Portfolio
+## Developer Portfolio
 For
-## DC
+### DC
