@@ -1,7 +1,3 @@
-## Developer Portfolio
-For
-### DC
-
 ## Links
 
 - [DEV](https://dev.to/jekydc)
