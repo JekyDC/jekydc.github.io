@@ -10,7 +10,8 @@ Coming soon.
 
 ## Skills
 
-### FOUNDATIONAL
+**Foundational
+
 - JavaScript
 - Python 
 - Command Line 
@@ -18,8 +19,8 @@ Coming soon.
 - NPM
 - Gulp
 - SQL
-- 
-### COMPETENT
+
+**Competent
 
 - PHP
 - HubSpot
@@ -32,7 +33,8 @@ Coming soon.
 - Blogging
 - MS Office Suite
 
-### ADVANCED
+**Advanced
+
 - HTML5
 - CSS3 
 - WordPress 
