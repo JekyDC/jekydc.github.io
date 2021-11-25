@@ -39,3 +39,11 @@ Coming soon.
 - CSS3 
 - WordPress 
 - Creative writing
+
+# Syllabus
+
+1. [ ] Learning the JS Language
+2. [ ] Essential JavaScript
+3. [ ] 
+4. [ ]
+
