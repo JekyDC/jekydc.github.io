@@ -10,7 +10,7 @@ Coming soon.
 
 ## Skills
 
-**Foundational
+**Foundational**
 
 - JavaScript
 - Python 
@@ -20,7 +20,7 @@ Coming soon.
 - Gulp
 - SQL
 
-**Competent
+**Competent**
 
 - PHP
 - HubSpot
@@ -33,7 +33,7 @@ Coming soon.
 - Blogging
 - MS Office Suite
 
-**Advanced
+**Advanced**
 
 - HTML5
 - CSS3 
