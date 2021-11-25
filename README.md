@@ -4,9 +4,9 @@ For
 
 ## Links
 
-[DEV](https://dev.to/jekydc)
-[CodePen](https://codepen.io/dc6)
-[GitHub](https://github.com/JekyDC)
+- [DEV](https://dev.to/jekydc)
+- [CodePen](https://codepen.io/dc6)
+- [GitHub](https://github.com/JekyDC)
 
 ## Projects
 
